@@ -1,0 +1,1 @@
+<annotation><filename>img274.jpg</filename><size><width>339</width><height>438</height><depth>3</depth></size><object><name>line_segment</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>134</xmin><ymin>92</ymin><xmax>262</xmax><ymax>416</ymax></bndbox></object></annotation>
